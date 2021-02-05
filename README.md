@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
+#### I am Sakshi, an ECE undergrad. Wishing to explore more in Data Science.
 
 - 🔭 I’m currently working on [my personal portfolio](https://github.com/sakshigupta265/sakshigupta265.github.io)
 - 🌱 I’m currently learning statistics for machine learning algorithms
