@@ -6,5 +6,4 @@
 - 💬 Ask me about API's, Regression Models, Neural Networks and BTS
 - 📫 How to reach me: [itzsakshi26gupta@gmail.com](mailto:itzsakshi26gupta@gmail.com)
 - 😄 Pronouns: (she/her/her)
-- ⚡ Fun fact: Data is never clean!
-
+- ⚡ Fun fact: I am not a a Robot.
