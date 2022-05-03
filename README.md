@@ -1,9 +1,1 @@
-### Hi there 👋
-#### I am Sakshi, an ECE undergrad. Wishing to explore more in Data Science.
-
-- 🔭 I’m currently working on [dataset bucket](https://github.com/kescardoso/datasetbucket.git)
-- 🌱 I’m currently learning statistics for machine learning algorithms
-- 💬 Ask me about API's, Regression Models, Neural Networks and other Machine Learning Models
-- 📫 How to reach me: [itzsakshi26gupta@gmail.com](mailto:itzsakshi26gupta@gmail.com)
-- 😄 Pronouns: (she/her/her)
-- ⚡ Fun fact: I am not a a Robot.
+![banner](https://user-images.githubusercontent.com/54631569/166427487-26357c17-87e0-443f-9643-da7e6b1860ca.png)
